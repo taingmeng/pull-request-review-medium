@@ -1,0 +1,24 @@
+{
+  "name": "pull-request-review-medium",
+  "version": "1.0.0",
+  "description": "Demo for Medium article",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taingmeng/pull-request-review-medium.git"
+  },
+  "keywords": [
+    "pullrequest",
+    "review",
+    "medium"
+  ],
+  "author": "Meng Taing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taingmeng/pull-request-review-medium/issues"
+  },
+  "homepage": "https://github.com/taingmeng/pull-request-review-medium#readme"
+}
